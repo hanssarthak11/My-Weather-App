@@ -47,7 +47,7 @@ function App() {
 
   return (
     <>
-      <div className="container w-screen h-screen grid grid-rows-4 lg:flex "
+      <div className="main w-full h-screen grid grid-rows-4 lg:flex "
         style={{ backgroundImage: `url(${imagePath})`, backgroundSize: "cover", backgroundPosition: "right" }} >
         <div className="left row-span-2 lg:w-4/6" onClick={handleClickOutside}>
           <div className="search w-full flex justify-center items-center h-1/6 bg-red pt-10">

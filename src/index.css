@@ -17,7 +17,7 @@ html,body{
     font-family: "Inter", sans-serif;
 }
 
-.container{
+.main{
     -webkit-transition: background-image 0.5s ease-in-out;
     transition: background-image 0.5s ease-in-out;
 }
